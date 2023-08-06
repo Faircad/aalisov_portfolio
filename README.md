@@ -10,4 +10,4 @@ I'm Andrey, a started Data Analyst and SQL enthusiast👋🏽
 - Humor is better than Jim Carrey😝
 - Let's talk about ChatGPT ?:)
 
-# MY PROJECT🖥️🔧
+# MY PROJECT 🖥️🔧
