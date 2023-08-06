@@ -1,6 +1,7 @@
 # HI THERE !
 I'm Andrey, a started Data Analyst and SQL enthusiast👋🏽
 
-# 💥 aME 
+# 💥 ABOUT ME 💥
 - Financial managment education
-- Work experience in 
+- Work experience in economy department
+- 
