@@ -8,6 +8,6 @@ I'm Andrey, a started Data Analyst and SQL enthusiast👋🏽
 - Study Data Science 🤖
 - English - B1 🇬🇧
 - Humor is better than Jim Carrey😝
-- Let's talk about ChatGPT ?:)
+- Let's talk about ChatGPT and SpaceX ?:)
 
 # 🖥️ MY PROJECTS 🔧
