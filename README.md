@@ -1,4 +1,5 @@
-![logo](https://github.com/Faircad/aalisov_portfolio/blob/main/knopka-pitaniya-chernyj-ekran.jpg![image](https://github.com/Faircad/aalisov_portfolio/assets/113472875/eade67bb-5d77-4c05-b433-1214dc3673fd)
+![logo](https://github.com/Faircad/aalisov_portfolio/blob/main/knopka-pitaniya-chernyj-ekran.jpg![image](https://github.com/Faircad/aalisov_portfolio/assets/113472875/550188c0-6b0c-4b28-b91f-ac7544f5af19)
+
 
 # HI THERE !
 I'm Andrey, a started Data Analyst and SQL enthusiast👋🏽
