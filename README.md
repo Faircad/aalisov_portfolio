@@ -11,3 +11,6 @@ I'm Andrey, a started Data Analyst and SQL enthusiast👋🏽
 - Let's talk about ChatGPT and SpaceX ?:)
 
 # 🖥️ MY PROJECTS 🔧
+
+# №1 [Анализ онлайн-кинотеатра и построение калькулятора Юнит-экономики]
+
