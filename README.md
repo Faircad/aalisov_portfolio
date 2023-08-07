@@ -33,7 +33,7 @@ __№2 SQL [Моделирование изменения балансов ст�
 5. Итоговая визуализация и выводы
 
 [Ссылка на проект](https://docs.google.com/spreadsheets/d/1Z7lIhesQ1jZSu6Ddec-Ff3TAL2tB9xI9/edit?usp=sharing&ouid=109800994742912140519&rtpof=true&sd=true)👈🏻 \
-             [код](https://metabase.sky.pro/question/76501)
+             [код](https://metabase.sky.pro/question/76501)👈🏻
 
 
    
