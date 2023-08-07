@@ -1,4 +1,3 @@
-![Knopka](<img src="knopka.jpg" width="200" height="100">)
 # HI THERE !
 I'm Andrey, a started Data Analyst and SQL enthusiast👋🏽
 
