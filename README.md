@@ -22,7 +22,6 @@ __№1 Excel [Анализ онлайн-кинотеатра и построен
 5. Вывод экономики сервиса на маржу 25%
    
 [Ссылка на проект](https://docs.google.com/spreadsheets/d/1zpWqN7qC7QvF9uass6K6FgfJPM4Tr86i/edit?usp=sharing&ouid=109800994742912140519&rtpof=true&sd=true)
-https://github.com/Faircad/aalisov_portfolio/blob/main/aalisov%20Unit-calculator.xlsx
 
 __№2 SQL [Моделирование изменения балансов студентов онлайн-школы]__
 
@@ -33,8 +32,8 @@ __№2 SQL [Моделирование изменения балансов ст�
 4. Нахождение ошибок в изначальных данных и обращение к Data-engineer
 5. Итоговая визуализация и выводы
 
-Ссылка на проект: https://github.com/Faircad/aalisov_portfolio/blob/main/aalisov%20SQL%20Online-school.xlsx \
-             код: https://metabase.sky.pro/question/76501
+[Ссылка на проект](https://docs.google.com/spreadsheets/d/1Z7lIhesQ1jZSu6Ddec-Ff3TAL2tB9xI9/edit?usp=sharing&ouid=109800994742912140519&rtpof=true&sd=true) \
+             [код](https://metabase.sky.pro/question/76501)
 
 
    
