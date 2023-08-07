@@ -32,8 +32,8 @@ I'm Andrey, a started Data Analyst and SQL enthusiast👋🏽
 4. Нахождение ошибок в изначальных данных и обращение к Data-engineer
 5. Итоговая визуализация и выводы
 
-Ссылка на проект: https://github.com/Faircad/aalisov_portfolio/blob/main/aalisov%20SQL%20Online-school.xlsx
-https://metabase.sky.pro/question/76501
+Ссылка на проект: https://github.com/Faircad/aalisov_portfolio/blob/main/aalisov%20SQL%20Online-school.xlsx \
+             код: https://metabase.sky.pro/question/76501
 
 
    
