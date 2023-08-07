@@ -21,7 +21,7 @@ __№1 Excel [Анализ онлайн-кинотеатра и построен
 4. Построение калькулятора Юнит-экономики
 5. Вывод экономики сервиса на маржу 25%
    
-[Ссылка на проект] (https://github.com/Faircad/aalisov_portfolio/blob/main/aalisov%20Unit-calculator.xlsx) 
+[Ссылка на проект](https://docs.google.com/spreadsheets/d/1zpWqN7qC7QvF9uass6K6FgfJPM4Tr86i/edit?usp=sharing&ouid=109800994742912140519&rtpof=true&sd=true)
 https://github.com/Faircad/aalisov_portfolio/blob/main/aalisov%20Unit-calculator.xlsx
 
 __№2 SQL [Моделирование изменения балансов студентов онлайн-школы]__
