@@ -1,3 +1,4 @@
+![Knopka!](/Faircad/aalisov_portfolio/blob/main/knopka-pitaniya-chernyj-ekran.jpg "Knopka")
 # HI THERE !
 I'm Andrey, a started Data Analyst and SQL enthusiast👋🏽
 
