@@ -10,8 +10,7 @@ I'm Andrey, a started Data Analyst and SQL enthusiast👋🏽
 - Humor is better than Jim Carrey😝
 - Let's talk about ChatGPT and SpaceX ?:)
  
-# 👨🏻‍💻 MY SKILLS 🧠
-
+# 🧠 MY SKILLS 👨🏻‍💻
 # 🖥️ MY PROJECTS 🔧
 
 __№1 Excel [Анализ онлайн-кинотеатра и построение калькулятора Юнит-экономики]__
