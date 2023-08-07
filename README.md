@@ -1,4 +1,4 @@
-![Knopka](/knopka(1).jpg)
+![Knopka](/knopka.jpg)
 # HI THERE !
 I'm Andrey, a started Data Analyst and SQL enthusiast👋🏽
 
