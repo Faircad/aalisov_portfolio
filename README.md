@@ -9,6 +9,8 @@ I'm Andrey, a started Data Analyst and SQL enthusiast👋🏽
 - English - B1 🇬🇧
 - Humor is better than Jim Carrey😝
 - Let's talk about ChatGPT and SpaceX ?:)
+ 
+# 👨🏻‍💻 MY SKILLS 🧠
 
 # 🖥️ MY PROJECTS 🔧
 
