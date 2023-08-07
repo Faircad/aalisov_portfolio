@@ -1,4 +1,4 @@
-![Knopka](/blob/main/knopka-pitaniya-chernyj-ekran.jpg)
+![Knopka](/blob/main/Knopka.jpg)
 # HI THERE !
 I'm Andrey, a started Data Analyst and SQL enthusiast👋🏽
 
