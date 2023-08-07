@@ -33,7 +33,7 @@ I'm Andrey, a started Data Analyst and SQL enthusiast👋🏽
 5. Итоговая визуализация и выводы
 
 Ссылка на проект: https://github.com/Faircad/aalisov_portfolio/blob/main/aalisov%20SQL%20Online-school.xlsx
-            /код: https://metabase.sky.pro/question/76501
+/////////////код: https://metabase.sky.pro/question/76501
 
 
    
