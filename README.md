@@ -6,11 +6,16 @@ I'm Andrey, a started Data Analyst and SQL enthusiast👋🏽
 - Work experience in economy department 💰
 - Patricipant School 21 from SBER 👨🏻‍💻
 - Study Data Science 🤖
-- English - B1 🇬🇧
 - Humor is better than Jim Carrey😝
 - Let's talk about ChatGPT and SpaceX ?:)
  
 # 🧠 MY SKILLS 👨🏻‍💻
+- __Инструменты анализа данных:__ SQL, Excel:
+- Языки программирования и библиотеки: Python, Pandas, NumPy, SciPy
+- Системы управления базами данных: PostgreSQL, MySQL
+- Средства визуализации данных: PowerBi, Matplotlib
+- Языки: Russian(native), English(B1)
+
 # 🖥️ MY PROJECTS 🔧
 
 __№1 Excel [Анализ онлайн-кинотеатра и построение калькулятора Юнит-экономики]__
