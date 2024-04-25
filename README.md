@@ -43,4 +43,12 @@ __№2 SQL [Моделирование изменения балансов ст�
    
 __№3 Курсовая работа [Упраление платежеспособностью и ликвидностью организации]__
 
-https://docs.google.com/document/d/1ZdquVLHbrMoJgjl66j1kxROxAb6GS0uBJdXgZYfhRYg/edit?usp=sharing
+[Ссылка на работу] [(https://docs.google.com/document/d/1ZdquVLHbrMoJgjl66j1kxROxAb6GS0uBJdXgZYfhRYg/edit?usp=sharing)]
+
+№3 Презентация проекта [Конструктор финансовый моделей]
+
+[Ссылка на проект] (https://drive.google.com/file/d/1Q5JQHub9KbN64doGJibPE-m14Ui6AwJu/view?pli=1)
+
+
+
+
