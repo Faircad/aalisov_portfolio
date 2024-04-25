@@ -41,4 +41,6 @@ __№2 SQL [Моделирование изменения балансов ст�
 [Ссылка на проект](https://docs.google.com/spreadsheets/d/1Z7lIhesQ1jZSu6Ddec-Ff3TAL2tB9xI9/edit?usp=sharing&ouid=109800994742912140519&rtpof=true&sd=true)👈🏻 \
             ⌗ [код](https://metabase.sky.pro/question/76501)
    
+__№3 Курсовая работа [Упраление платежеспособностью и ликвидностью организации]__
 
+https://docs.google.com/document/d/1ZdquVLHbrMoJgjl66j1kxROxAb6GS0uBJdXgZYfhRYg/edit?usp=sharing
